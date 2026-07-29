@@ -1,0 +1,5 @@
+templateName,database\Templates\ProxyPoolEquation.tpl,
+championMaxEquation,(poolValue * 2.3) - (poolValue / numberOfPlayers),
+championMinEquation,(poolValue * 2.3) - (poolValue / numberOfPlayers),
+spawnMaxEquation,(poolValue * 2.3) - (poolValue / numberOfPlayers),
+spawnMinEquation,(poolValue * 2.3) - (poolValue / numberOfPlayers),
